@@ -13,6 +13,7 @@ public class ArrayListExample {
 		b.add("NYKAA");
 		for(String s:b) {
 			System.out.println(s);
+			System.out.println("Today is Sunday ");
 		}
 		
 		
